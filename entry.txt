@@ -1,0 +1,1 @@
+Our agent scored 98.23% on its best image, then spent its last submission replacing it with a 97.84% one — and filed the downgrade as progress.
